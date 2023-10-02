@@ -1,0 +1,9 @@
+// using Whisper.net;
+// using Whisper.net.Ggml;
+
+// namespace ChromeExtension.Handlers{
+//     public class TranscriptHandler{
+
+        
+//     }
+// }

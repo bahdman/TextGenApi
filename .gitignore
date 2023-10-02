@@ -1,0 +1,7 @@
+.vscode/
+bin/
+obj/
+ggml-base.bin
+Whisper/
+wwwroot/VideoFiles/
+output_audio.wav
